@@ -1,0 +1,6 @@
+if SHIELD_KIVOPAD
+
+config ZMK_KEYBOARD_NAME
+    default "KivoPad"
+
+endif # SHIELD_KIVOPAD
