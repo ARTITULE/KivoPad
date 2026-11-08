@@ -22,6 +22,12 @@ For anyone interested here is the schematic:
 
 ![Schematic](/Pic/SCH_Schematic1.svg)
 
+## 3D Case
+
+![3D case](/Pic/3D_Case_KIvoPad_v1.0.png)
+
+You can find all of the KivoPad Case files in the [3D_Files](/3D_Files/) folder.
+
 ## Firmware Installation
 
 Note: The keybindings defined in the firmware are just there for testing purposes, you can use the ZMK Studio website to create your desired keybindings. See [Changing The Keybindings](#changing-the-keybindings) for more info.
