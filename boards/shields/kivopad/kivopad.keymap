@@ -15,7 +15,7 @@
                 &kp A &kp B &kp C &kp D
                 &kp E &kp F &kp G &kp H
                 &kp I &kp J &kp K &kp L
-                &kp RET &kp ESC &kp C_MUTE &kp C_PP
+                &kp RET &kp ESC &kp C_MUTE &studio_unlock
             >;
             sensor-bindings = <
                 &inc_dec_kp C_VOL_UP C_VOL_DN
