@@ -1,0 +1,3 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+PCB,1,JLCPCB,$10.80,$10.80,https://jlcpcb.com/
+Estimated total shipping,1,,,$10.00,
