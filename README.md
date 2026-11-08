@@ -26,7 +26,7 @@ For anyone interested here is the schematic:
 
 ![3D case](/Pic/3D_Case_KIvoPad_v1.0.png)
 
-You can find all of the KivoPad Case files in the [3D_Files](/3D_Files/) folder.
+You can find all of the KivoPad Case files in the [3D_Files](/3D_Files/) folder. Any Cherry MX compatible keycaps will work, even 3D printed ones.
 
 ## Firmware Installation
 
@@ -42,3 +42,16 @@ Note: The keybindings defined in the firmware are just there for testing purpose
 ## Changing The Keybindings
 
 Once the firmware is flashed you get a default set of keybindings. To change them navigete to [ZMK Studio](https://zmk.studio/) and connect your KivoPad. You will be prompted for you to unlock your keyboard. The keyboard unlock button is the second encoder button.
+
+## BOM
+
+Please note that some of the parts on LCSC have a minimum ordering quantity.
+
+|Item                                                            |Qty|Supplier|Cost/item        |Total Cost|link                                                    |
+|----------------------------------------------------------------|---|--------|-----------------|----------|--------------------------------------------------------|
+|PCB                                                             |1  |JLCPCB  |$10.80           |$10.80    |[JLCPCB](https://jlcpcb.com/)                           |
+|Components from LSCS(Please upload the PCB BOM to their website)|1  |LSCS    |$10.75(Estimated)|$10.75    |[LCSC](https://www.lcsc.com)                            |
+|500mAh Battery                                                  |1  |Amazon  |$8.99            |$8.99     |[Amazon](https://www.amazon.com/dp/B0CNLN7F24?_encoding=UTF8&th=1)|
+|NRF ProMicro                                                    |1  |Amazon  |$7.99            |$7.99     |[Amazon](https://www.amazon.com/NRF52840-Development-Bluetooth-Wireless-Electronics/dp/B0GSZ7FD6T?crid=28RUQAMFK7QT&dib=eyJ2IjoiMSJ9.GWqFJJiGzPOkrPepnTW2lg0pKNpktU-gSLKc1_Ol_DiJiCMFsY3ptQin8xmzcyVmzBP6vw3q7lq2BLuM6pd1Re0Sm8vf3-ntIHdseWcDm_J9-y97sNE2W_M1EGpSsGQA0I3fdi4X4wzkXUPc2N7chNvlcFz30ovYs32drentfmamaVW2p8rHEmWKn-y1dN6axAHIjgqZnuNgHV6PRnLASYTqnfzWHgj3WK2OousnZhc.e4BAtEWwEBqlHYGfbpeY_3F9Lf-DXQJkWgH1FxNQJuk&dib_tag=se&keywords=nrf%2Bpro%2Bmicro&qid=1794163024&sprefix=nrf%2Bpr%2Caps%2C346&sr=8-4&th=1)|
+|Estimated total shipping                                        |1  |        |                 |$10.00    |                                                        |
+|Estimated TOTAL                                                 |   |        |                 |$40.54    |                                                        |
